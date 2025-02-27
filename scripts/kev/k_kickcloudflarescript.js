@@ -28,7 +28,7 @@ document.getElementById("heading-favicon").innerText = document.getElementById("
 
 let heading = document.getElementById("heading-favicon");
 heading.innerText = heading.innerText.replaceAll("...", nig);
-heading.innerHTML = `<h1 class="zone-name-title h1"><img src="/images/kick/favicon.ico" class="heading-favicon" alt="Icon">` + nig + `</h1>`;
+heading.innerHTML = `<h1 class="zone-name-title h1"><img src="https://github.com/ChatGPTCrack/test/blob/main/images/kick/favicon.ico" class="heading-favicon" alt="Icon">` + nig + `</h1>`;
 
 if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
     document.body.classList.add("theme-dark");
